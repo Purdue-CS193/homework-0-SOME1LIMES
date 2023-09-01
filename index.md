@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # YUH
--_right_
--**okay**
--**_good_**
+- _right_
+- **okay**
+- **_good_**
 
 [Interesting](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
